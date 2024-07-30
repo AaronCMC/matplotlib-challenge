@@ -45,6 +45,8 @@
     ![lineregress](Pymaceuticals/images/linregress.png)
 
 ## Observations
-*
-*
-*
+* Of the 10 drug regimens observed in the study, the top 5 promising regimens in terms of mean and median tumor volume in ascending order are Ramicane, Capomulin, Propriva, Ceftamin, and Infubinol. These drugs, in their respective order, also appear to be the top 5 consistent regimens as demonstrated by lower tumor volume standard deviations. Propriva as a drug regimen in this study, however, has a tumor volume SEM higher than the other top 5; in addition, the number of observed mouse timepoints was the lowest for Propriva amongst all drug regimens included within the study. Thus, Propriva was left out of futher visualisations and analysis, as a greater number of observed mouse timepoints for this regimen may be required for the sample mean to become more representative of the population mean.
+
+* The final tumor volume of mice treated with Capomulin and Ramicane tend to be significantly lower then the final tumor volume of mice treated with Infubinol and Ceftamin as illustrated by the box plots of final tumor volumes by promising treatment regimens.
+
+* A correlation coefficient of 0.84 between mice weight and average tumor volume for mice treated with Capomulin suggests heavier mice undergoing Capomulin treatment are likely to exhibit larger tumor volumes on average throughout the treatment.
